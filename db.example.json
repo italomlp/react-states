@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "84bd",
+      "description": "Learn Remix",
+      "completed": true
+    },
+    {
+      "id": "e4fe",
+      "description": "Learn Astro",
+      "completed": false
+    },
+    {
+      "id": "d24b",
+      "description": "Learn React",
+      "completed": false
+    }
+  ]
+}
